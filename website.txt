@@ -1,0 +1,15 @@
+requirements
+- input box
+-check if url is valid
+- download button
+- quality selector
+- is the video public or private
+-ads (like Our ads, not YT's)
+- actually convert the video (into files which can actually be used)
+Questions:
+- can YT video be downloaded in the first place
+- can we make a graphical user interface
+Prototype Somethign tha tmakes th eRisks Wrong!
+-in about one day
+-attack the more cocnerning one first!
+-search up in Google first haha
