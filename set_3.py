@@ -136,7 +136,7 @@ def eta(first_stop, second_stop, route_map):
                 found_next_leg = True
                 break  # Move to the next leg
         
-        # This would only happen if the route is truly fully connected
+        # This would only happen if the route is not fully connected
         if not found_next_leg:
             # If for some reason the next leg isn't found, it breaks to prevent infinite loop
             break 
